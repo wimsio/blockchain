@@ -1,2 +1,2 @@
 # blockchain
-WIM Block Chain
+WIM Walllet Solutions
